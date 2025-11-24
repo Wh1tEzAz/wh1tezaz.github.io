@@ -2,7 +2,7 @@
 
 [![Wh1tEzAz](https://img.shields.io/badge/Wh1tEzAz-github-blue?logo=github)](https://github.com/Wh1tEzAz)
 
-He is currently a student in the Faculty of Applied Science, Universidade Politécnica de Macau.
+I am currently a student in the Faculty of Applied Science, Universidade Politécnica de Macau.
 
 #### Contact
 
